@@ -1,12 +1,10 @@
 /* [ -- Master Stylesheet -- ]
 
 ------------------------------------------------------
-:: Template Name: Original - Lifestyle Blog Template
-:: Author: Colorlib
-:: Author URL: https://colorlib.com
-:: Version: 1.0.0
-:: Created: April 3, 2018
-:: Last Updated: April 3, 2018
+
+:: Author: Umair Rathore
+:: Author URL: https://www.linkedin.com/in/umair-rathore/
+
 -------------------------------------------------- */
 
 @import 'theme_color';
@@ -600,10 +598,10 @@ img {
                     font-size: 40px;
                     display: inline-block;
                     padding: 12px 20px 5px;
-                    background-color: $color-dark;
+                    //background-color: $color-dark;
                     border-radius: 0;
                     text-transform: uppercase;
-                    color: $color-white;
+                    //color: $color-white;
                     margin-bottom: 0;
                     @media #{$breakpoint-lg} {
                         font-size: 30px;
